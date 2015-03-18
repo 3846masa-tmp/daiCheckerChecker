@@ -1,0 +1,2 @@
+# daiCheckerChecker
+大チェッカーをRSSにするGoogleAppsScript
