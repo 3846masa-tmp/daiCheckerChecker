@@ -7,3 +7,7 @@ GoogleAppsScriptの「ウェブサイトとして導入」→「全員（匿名�
 もらえたURLのGETクエリのidに ``https://daichkr.hatelabo.jp/antenna/[ここの数字]`` を入れる
 
 URLは、``https://script.google.com/macros/s/[文字列]/exec?id=[数字]`` になる
+
+--------------------
+
+**（このコードで生成したRSSにアクセスする頻度は低くしましょう．）**
